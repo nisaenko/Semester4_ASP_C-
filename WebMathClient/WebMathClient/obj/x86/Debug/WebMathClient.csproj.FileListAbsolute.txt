@@ -1,0 +1,10 @@
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\WebMathClient\WebMathClient\bin\Debug\WebMathClient.exe.config
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\WebMathClient\WebMathClient\bin\Debug\WebMathClient.exe
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\WebMathClient\WebMathClient\bin\Debug\WebMathClient.pdb
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\WebMathClient\WebMathClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\WebMathClient\WebMathClient\obj\x86\Debug\WebMathClient.Form1.resources
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\WebMathClient\WebMathClient\obj\x86\Debug\WebMathClient.Properties.Resources.resources
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\WebMathClient\WebMathClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\WebMathClient\WebMathClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\WebMathClient\WebMathClient\obj\x86\Debug\WebMathClient.exe
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\WebMathClient\WebMathClient\obj\x86\Debug\WebMathClient.pdb

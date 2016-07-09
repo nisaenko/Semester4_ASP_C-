@@ -1,0 +1,6 @@
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\ConBankAccountClient\ConBankAccountClient\bin\Debug\ConBankAccountClient.exe.config
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\ConBankAccountClient\ConBankAccountClient\bin\Debug\ConBankAccountClient.exe
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\ConBankAccountClient\ConBankAccountClient\bin\Debug\ConBankAccountClient.pdb
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\ConBankAccountClient\ConBankAccountClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\ConBankAccountClient\ConBankAccountClient\obj\x86\Debug\ConBankAccountClient.exe
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\ConBankAccountClient\ConBankAccountClient\obj\x86\Debug\ConBankAccountClient.pdb

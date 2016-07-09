@@ -1,0 +1,17 @@
+E:\COMP2075\Week01\Lab01-Ex-01\Lab01-Ex-01\bin\Debug\Lab01-Ex-01.exe
+E:\COMP2075\Week01\Lab01-Ex-01\Lab01-Ex-01\bin\Debug\Lab01-Ex-01.pdb
+E:\COMP2075\Week01\Lab01-Ex-01\Lab01-Ex-01\obj\x86\Debug\Lab01-Ex-01.exe
+E:\COMP2075\Week01\Lab01-Ex-01\Lab01-Ex-01\obj\x86\Debug\Lab01-Ex-01.pdb
+D:\COMP2075\Week01\Lab01-Ex-01\Lab01-Ex-01\obj\x86\Debug\Lab01-Ex-01.exe
+D:\COMP2075\Week01\Lab01-Ex-01\Lab01-Ex-01\obj\x86\Debug\Lab01-Ex-01.pdb
+D:\COMP2075\Week01\Lab01-Ex-01\Lab01-Ex-01\bin\Debug\Lab01-Ex-01.exe
+D:\COMP2075\Week01\Lab01-Ex-01\Lab01-Ex-01\bin\Debug\Lab01-Ex-01.pdb
+F:\COMP2075\Week01\Lab01-Ex-01\Lab01-Ex-01\obj\x86\Debug\Lab01-Ex-01.exe
+F:\COMP2075\Week01\Lab01-Ex-01\Lab01-Ex-01\obj\x86\Debug\Lab01-Ex-01.pdb
+F:\COMP2075\Week01\Lab01-Ex-01\Lab01-Ex-01\bin\Debug\Lab01-Ex-01.exe
+F:\COMP2075\Week01\Lab01-Ex-01\Lab01-Ex-01\bin\Debug\Lab01-Ex-01.pdb
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\Lab01-Ex-01\Lab01-Ex-01\obj\x86\Debug\Lab01-Ex-01.exe
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\Lab01-Ex-01\Lab01-Ex-01\obj\x86\Debug\Lab01-Ex-01.pdb
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\Lab01-Ex-01\Lab01-Ex-01\bin\Debug\Lab01-Ex-01.exe
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\Lab01-Ex-01\Lab01-Ex-01\bin\Debug\Lab01-Ex-01.pdb
+C:\Users\Natasha\Documents\Visual Studio 2010\Comp2075\Lab01-Ex-01\Lab01-Ex-01\obj\x86\Debug\ResolveAssemblyReference.cache
